@@ -1,8 +1,6 @@
 # windows-authentication-log-analysis
 Investigation of suspicious authentication activity using Windows Event Logs to identify root cause and recommend remediation.
 
-# Enterprise Authentication Failure Investigation
-
 ## Objective
 This project investigates repeated authentication failures and account lockouts in a simulated enterprise environment using Windows Event Logs. The goal is to determine whether the activity is benign, misconfiguration-related, or potentially malicious, and to recommend appropriate remediation steps.
 
